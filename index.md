@@ -34,6 +34,7 @@ Students will learn basic coding paradigm, using Python. They will learn how to 
 1. **[Lab]** BMI Calculator (While)
 1. Recap Module 1
 
+----
 
 # Module 2 - Advanced Python 
 
@@ -65,6 +66,8 @@ They will be dealing with complex logic branching and be exposed to the process 
 1. **[Lab]** Tic Tac Toe Part 1
 1. **[Lab]** Tic Tac Toe Part 2
 1. **[Lab]** Tic Tac Toe Part 3
+
+----
 
 # Module 3 - Tic Tac Toe with Arduino [WIP]
 
