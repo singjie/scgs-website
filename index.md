@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+# Module 1 - Python, Introduction to Coding
 
-You can use the [editor on GitHub](https://github.com/singjie/scgs-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Outcome
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Students will learn basic coding paradigm, using Python. They will learn how to code with basic conditional branching, loops and eventually develop a BMI calculator.
 
-### Markdown
+## Resources
+- Laptop installed and setup with PYCharm per student
+  - PYCharm Download Link: https://www.jetbrains.com/pycharm/download/#section=windows
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Lessons
+1. Introduction to Coding
+1. Setup IDE - PyCharm
+1. Hello World
+1. **[Lab]** Basics
+1. Simple Math
+1. **[Lab]** Year of Birth
+1. Simple Math Operators
+1. Simple Math Int v String
+1. **[Lab]** + - x /
+1. Decision Making
+1. **[Lab]** Are you hungry?
+1. **[Lab]** Pioneer Generation Calculator
+1. Decision Making (and or)
+1. **[Lab]** BMI Calculator
+1. **[Lab]** BMI Calculator (Advance)
+1. While Loop
+1. **[Lab]** BMI Calculator (While)
+1. Recap Module 1
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Module 2 - Advanced Python 
 
-- Bulleted
-- List
+## Outcome
+Students will be building a virtual Tic Tac Toe board with Python. Students will learn more advance data structures, putting themselves into a role of software engineers, making code clean and easy to read.
+ 
+They will be dealing with complex logic branching and be exposed to the process of logical thinking in coding.
 
-1. Numbered
-2. List
+## Resources
+- Laptop installed and setup with PYCharm per student
+  - PYCharm Download Link: https://www.jetbrains.com/pycharm/download/#section=windows
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/singjie/scgs-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Lessons
+1. Recap and For Loop
+1. **[Lab]** Word has 'a'
+1. Data Structure - String
+1. **[Lab]** Word has 'an'
+1. Data Structure - List
+1. **[Lab]** Shopping Cart
+1. Functions
+1. **[Lab]** SCGS_ABS
+1. **[Lab]** Function - Private Car / Taxi Plate
+1. **[Lab]** Tic Tac Toe Part 1
+1. **[Lab]** Tic Tac Toe Part 2
+1. **[Lab]** Tic Tac Toe Part 3
