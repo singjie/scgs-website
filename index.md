@@ -92,5 +92,7 @@ Students will be building a physical Tic Tac Toe board, that they can bring home
     4. 1x 20x4 IC2 LCD ($25.95)
     5. Miscs LEDs/Resistors/Cables ($5/Provided by Sing Jie)
 
-# Context
-Contents here are prepared and recorded by Lee Sing Jie. If you have questions to any of the topics discussed here, feel free to email me at singjie@singjie.com. These modules here are targeted at Upper Secondary School level students. 
+# Disclaimer
+Contents here are prepared and recorded by Lee Sing Jie for educational purposes. Please only redistribute for educational purposes. DO NOT DISTRIBUTE FOR PROFIT.
+
+If you have questions to any of the topics discussed here, feel free to email me at [singjie@singjie.com](singjie@singjie.com). These modules here are targeted at Upper Secondary School level students (15-16 years old). 
