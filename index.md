@@ -64,7 +64,7 @@ Students will be building a physical Tic Tac Toe board, that they can bring home
 
 ## Resources
 - 1x Laptop installed and setup with Arduino Studio per student
-    - Download Link: https://www.arduino.cc/en/main/software
+    - Download [here](https://www.arduino.cc/en/main/software)
 - Hardwares (Prices from SGBotic.com (http://sgbotic.com/) - Total SGD $68.55) 
     1. 1x Arduino Uno + USB Cable ($38.90) 
         1. *Alternative:* 1x Uno Maker ($8.90) 
