@@ -72,6 +72,7 @@ They will be dealing with complex logic branching and be exposed to the process 
 
 ## Tutorial
 1. Tutorial 2
+
 ----
 
 # Module 3 - Tic Tac Toe with Arduino [WIP]
