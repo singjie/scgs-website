@@ -1,3 +1,6 @@
+# Context
+Contents here are prepared and recorded by Lee Sing Jie. If you have questions to any of the topics discussed here, feel free to email me at singjie@singjie.com. These modules here are targeted at Upper Secondary School level students. 
+
 # Module 1 - Python, Introduction to Coding
 
 ## Outcome
