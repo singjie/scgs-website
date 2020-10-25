@@ -6,7 +6,10 @@ Students will learn basic coding paradigm, using Python. They will learn how to 
 
 ## Resources
 - Laptop installed and setup with PYCharm per student
-  - PYCharm Download Link: https://www.jetbrains.com/pycharm/download/#section=windows
+  - PYCharm Download [Here](https://www.jetbrains.com/pycharm/download/#section=windows)
+  
+## Slides
+- Download here: <link>
 
 ## Lessons
 1. Introduction to Coding
@@ -23,7 +26,7 @@ Students will learn basic coding paradigm, using Python. They will learn how to 
 1. **[Lab]** Pioneer Generation Calculator
 1. Decision Making (and or)
 1. **[Lab]** BMI Calculator
-1. **[Lab]** BMI Calculator (Advance)
+1. **[Lab]** BMI Calculator (Advanced)
 1. While Loop
 1. **[Lab]** BMI Calculator (While)
 1. Recap Module 1
@@ -38,7 +41,7 @@ They will be dealing with complex logic branching and be exposed to the process 
 
 ## Resources
 - Laptop installed and setup with PYCharm per student
-  - PYCharm Download Link: https://www.jetbrains.com/pycharm/download/#section=windows
+  - PYCharm Download [Here](https://www.jetbrains.com/pycharm/download/#section=windows)
 
 ## Lessons
 1. Recap and For Loop
@@ -53,3 +56,21 @@ They will be dealing with complex logic branching and be exposed to the process 
 1. **[Lab]** Tic Tac Toe Part 1
 1. **[Lab]** Tic Tac Toe Part 2
 1. **[Lab]** Tic Tac Toe Part 3
+
+# Module 3 - Tic Tac Toe with Arduino [WIP]
+
+## Outcome
+Students will be building a physical Tic Tac Toe board, that they can bring home and play with their family. Through building, they will learn about electronics, LEDS, coding and logical thinking. 
+
+## Resources
+- 1x Laptop installed and setup with Arduino Studio per student
+    - Download Link: https://www.arduino.cc/en/main/software
+- Hardwares (Prices from SGBotic.com (http://sgbotic.com/) - Total SGD $68.55) 
+    1. 1x Arduino Uno + USB Cable ($38.90) 
+        1. *Alternative:* 1x Uno Maker ($8.90) 
+            1. https://sg.cytron.io/p-maker-uno-simplifying-arduino-for-education?r=1&gclid=Cj0KCQjw-af6BRC5ARIsAALPIlWsemK7GSA45pjJ3oaxW4NOgmI-Q_OD6YIMfFItznxS_HgRmvtExgEaAuosEALw_wcB
+    2. 2x Push Button Switch ($0.80)
+    3. 1x Breadboard Mini Modular ($2.90)
+    4. 1x 20x4 IC2 LCD ($25.95)
+    5. Miscs LEDs/Resistors/Cables ($5/Provided by Sing Jie)
+
