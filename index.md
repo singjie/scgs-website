@@ -9,7 +9,10 @@ Students will learn basic coding paradigm, using Python. They will learn how to 
   - PYCharm Download [Here](https://www.jetbrains.com/pycharm/download/#section=windows)
   
 ## Slides
-- Download here: <link>
+- Download Here: <link>
+
+## Duration 
+- 240 mins
 
 ## Lessons
 1. Introduction to Coding
@@ -42,6 +45,12 @@ They will be dealing with complex logic branching and be exposed to the process 
 ## Resources
 - Laptop installed and setup with PYCharm per student
   - PYCharm Download [Here](https://www.jetbrains.com/pycharm/download/#section=windows)
+
+## Slides
+- Download Here: <link>
+
+## Duration 
+- 240 mins
 
 ## Lessons
 1. Recap and For Loop
