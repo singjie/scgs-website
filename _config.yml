@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 name: Lee Sing Jie
 title: SCGS Python Modules
+github:
+  is_project_page: false
