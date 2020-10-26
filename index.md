@@ -76,7 +76,7 @@ They will be dealing with complex logic branching and be exposed to the process 
 
 ----
 
-# Module 3 - Tic Tac Toe with Arduino [WIP]
+# Module 3 - Tic Tac Toe with Arduino [In Future]
 
 ## Outcome
 Students will be building a physical Tic Tac Toe board, that they can bring home and play with their family. Through building, they will learn about electronics, LEDS, coding and logical thinking. 
