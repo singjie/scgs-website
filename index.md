@@ -57,7 +57,7 @@ They will be dealing with complex logic branching and be exposed to the process 
 - 240 mins
 
 ## Lessons
-1. Recap and For Loop
+1. For Loop
 1. **[Lab]** Word has 'a'
 1. Data Structure - String
 1. **[Lab]** Word has 'an'
@@ -69,6 +69,7 @@ They will be dealing with complex logic branching and be exposed to the process 
 1. **[Lab]** Tic Tac Toe Part 1
 1. **[Lab]** Tic Tac Toe Part 2
 1. **[Lab]** Tic Tac Toe Part 3
+1. Recap Module 2
 
 ## Tutorial
 1. Tutorial 2
