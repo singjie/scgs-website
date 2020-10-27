@@ -15,24 +15,24 @@ Students will learn basic coding paradigm, using Python. They will learn how to 
 - 240 mins
 
 ## Lessons
-1. Introduction to Coding
-1. Setup IDE - PyCharm
-1. Hello World
-1. **[Lab]** Basics
-1. Simple Math
-1. **[Lab]** Year of Birth
-1. Simple Math Operators
-1. Simple Math Int v String
-1. **[Lab]** + - x /
-1. Decision Making
-1. **[Lab]** Are you hungry?
-1. **[Lab]** Pioneer Generation Calculator
-1. Decision Making (and or)
-1. **[Lab]** BMI Calculator
-1. **[Lab]** BMI Calculator (Advanced)
-1. While Loop
-1. **[Lab]** BMI Calculator (While)
-1. Recap Module 1
+1. [Introduction to Coding](https://youtu.be/Or6vjMsUHRU)
+1. [Setup IDE - PyCharm](https://youtu.be/tiKiJaCzoMs)
+1. [Hello World](https://youtu.be/s-38bX3bJSA)
+1. [**[Lab]** Basics](https://youtu.be/J0p834QcaAA)
+1. [Simple Math](https://youtu.be/TixJnZnSDf0)
+1. [**[Lab]** Year of Birth](https://youtu.be/XAnclZ_jw_k)
+1. [Simple Math Operators](https://youtu.be/6yf-RheenDc)
+1. [Simple Math Int v String](https://youtu.be/maPQUt3VNCM)
+1. [**[Lab]** + - x /](https://youtu.be/O4ZDADeZRrc)
+1. [Decision Making](https://youtu.be/wMvoUv6oXd4)
+1. [**[Lab]** Are you hungry?](https://youtu.be/2_OHWq_GFgI)
+1. [**[Lab]** Pioneer Generation Calculator](https://youtu.be/zz5QsicXkM4)
+1. [Decision Making (and or)](https://youtu.be/ZdUNZDMzNGs)
+1. [**[Lab]** BMI Calculator](https://youtu.be/lAqa0JjUCN0)
+1. [**[Lab]** BMI Calculator (Advanced)](https://youtu.be/dYBbNQY3zPo)
+1. [While Loop](https://youtu.be/SRBWZth45zQ)
+1. [**[Lab]** BMI Calculator (While)](https://youtu.be/lOeRHGQF-gc)
+1. [Recap Module 1](https://youtu.be/-bnPnGFLO90)
 
 ## Tutorial
 1. Tutorial 1
