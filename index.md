@@ -6,10 +6,10 @@ Students will learn basic coding paradigm, using Python. They will learn how to 
 
 ## Resources
 - Laptop installed and setup with PYCharm per student
-  - PYCharm Download [Here](https://www.jetbrains.com/pycharm/download/#section=windows)
+  - PYCharm Download [here](https://www.jetbrains.com/pycharm/download/#section=windows)
   
 ## Slides
-- Download Here: <link>
+- Download [here](https://github.com/singjie/scgs-website/raw/gh-pages/SCGS%20-%201.0%20Python.pdf)
 
 ## Duration 
 - 240 mins
@@ -35,7 +35,7 @@ Students will learn basic coding paradigm, using Python. They will learn how to 
 1. [Recap Module 1](https://youtu.be/-bnPnGFLO90)
 
 ## Tutorial
-1. Tutorial 1
+1. Tutorial 1 (Coming soon!)
 
 ----
 
@@ -48,7 +48,7 @@ They will be dealing with complex logic branching and be exposed to the process 
 
 ## Resources
 - Laptop installed and setup with PYCharm per student
-  - PYCharm Download [Here](https://www.jetbrains.com/pycharm/download/#section=windows)
+  - PYCharm Download [here](https://www.jetbrains.com/pycharm/download/#section=windows)
 
 ## Slides
 - Download Here: <link>
@@ -72,7 +72,7 @@ They will be dealing with complex logic branching and be exposed to the process 
 1. [Recap Module 2]
 
 ## Tutorial
-1. Tutorial 2
+1. Tutorial 2 (Coming soon!)
 
 ----
 
@@ -84,10 +84,9 @@ Students will be building a physical Tic Tac Toe board, that they can bring home
 ## Resources
 - 1x Laptop installed and setup with Arduino Studio per student
     - Download [here](https://www.arduino.cc/en/main/software)
-- Hardwares (Prices from SGBotic.com (http://sgbotic.com/) - Total SGD $68.55) 
+- Hardwares (Prices from [SGBotic.com](http://sgbotic.com/) - Total SGD $68.55) 
     1. 1x Arduino Uno + USB Cable ($38.90) 
-        1. *Alternative:* 1x Uno Maker ($8.90) 
-            1. https://sg.cytron.io/p-maker-uno-simplifying-arduino-for-education?r=1&gclid=Cj0KCQjw-af6BRC5ARIsAALPIlWsemK7GSA45pjJ3oaxW4NOgmI-Q_OD6YIMfFItznxS_HgRmvtExgEaAuosEALw_wcB
+        1. [*Alternative:* 1x Uno Maker ($8.90)](https://sg.cytron.io/p-maker-uno-simplifying-arduino-for-education?r=1&gclid=Cj0KCQjw-af6BRC5ARIsAALPIlWsemK7GSA45pjJ3oaxW4NOgmI-Q_OD6YIMfFItznxS_HgRmvtExgEaAuosEALw_wcB)
     2. 2x Push Button Switch ($0.80)
     3. 1x Breadboard Mini Modular ($2.90)
     4. 1x 20x4 IC2 LCD ($25.95)
