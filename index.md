@@ -57,19 +57,19 @@ They will be dealing with complex logic branching and be exposed to the process 
 - 240 mins
 
 ## Lessons
-1. For Loop
-1. **[Lab]** Word has 'a'
-1. Data Structure - String
-1. **[Lab]** Word has 'an'
-1. Data Structure - List
-1. **[Lab]** Shopping Cart
-1. Functions
-1. **[Lab]** SCGS_ABS
-1. **[Lab]** Function - Private Car / Taxi Plate
-1. **[Lab]** Tic Tac Toe Part 1
-1. **[Lab]** Tic Tac Toe Part 2
-1. **[Lab]** Tic Tac Toe Part 3
-1. Recap Module 2
+1. [For Loop](https://youtu.be/a0h49hoQVaY)
+1. [**[Lab]** Word has 'a'](https://youtu.be/XyxS2dfeMDM)
+1. [Data Structure - String](https://youtu.be/8Sw1YQsgInc)
+1. [**[Lab]** Word has 'an'](https://youtu.be/0g_IyBVFdTg)
+1. [Data Structure - List](https://youtu.be/FpjTizq2UGk)
+1. [**[Lab]** Shopping Cart](https://youtu.be/4n5bAWNN7NE)
+1. [Functions](https://youtu.be/lV41mAQFLWM)
+1. [**[Lab]** SCGS_ABS](https://youtu.be/4LS3M-bCppE)
+1. [**[Lab]** Function - Private Car / Taxi Plate](https://youtu.be/TpR1iusI_ik)
+1. [**[Lab]** Tic Tac Toe Part 1](https://youtu.be/7IklVm4TIAI)
+1. [**[Lab]** Tic Tac Toe Part 2](https://youtu.be/_CkzFxwIE4o)
+1. [**[Lab]** Tic Tac Toe Part 3](https://youtu.be/4G3_QfU4DJw)
+1. [Recap Module 2]
 
 ## Tutorial
 1. Tutorial 2
