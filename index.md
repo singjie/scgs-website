@@ -51,7 +51,7 @@ They will be dealing with complex logic branching and be exposed to the process 
   - PYCharm Download [here](https://www.jetbrains.com/pycharm/download/#section=windows)
 
 ## Slides
-- Download Here: <link>
+- Download [here](https://github.com/singjie/scgs-website/raw/gh-pages/SCGS%20-%202.0%20Python.pdf)
 
 ## Duration 
 - 240 mins
