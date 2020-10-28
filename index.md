@@ -69,7 +69,7 @@ They will be dealing with complex logic branching and be exposed to the process 
 1. [**[Lab]** Tic Tac Toe Part 1](https://youtu.be/7IklVm4TIAI)
 1. [**[Lab]** Tic Tac Toe Part 2](https://youtu.be/_CkzFxwIE4o)
 1. [**[Lab]** Tic Tac Toe Part 3](https://youtu.be/4G3_QfU4DJw)
-1. [Recap Module 2]
+1. [Recap Module 2](https://youtu.be/vZ2KjisxQBo)
 
 ## Tutorial
 1. Tutorial 2 (Coming soon!)
