@@ -72,7 +72,7 @@ They will be dealing with complex logic branching and be exposed to the process 
 1. [Recap Module 2](https://youtu.be/vZ2KjisxQBo) (14:44)
 
 ## Tutorial
-1. Tutorial 2 (Coming soon!)
+1. [Tutorial 2](https://github.com/singjie/scgs-website/raw/gh-pages/Tutorial%202.pdf)
 
 ----
 
