@@ -35,7 +35,7 @@ Students will learn basic coding paradigm, using Python. They will learn how to 
 1. [Recap Module 1](https://youtu.be/-bnPnGFLO90) (7:55)
 
 ## Tutorial
-1. Tutorial 1 (Coming soon!)
+1. [Tutorial 1](https://github.com/singjie/scgs-website/raw/gh-pages/Tutorial%201.pdf)
 
 ----
 
