@@ -36,6 +36,7 @@ Students will learn basic coding paradigm, using Python. They will learn how to 
 
 ## Tutorial
 1. [Tutorial 1](https://github.com/singjie/scgs-website/raw/gh-pages/Tutorial%201.pdf)
+  1. [Solution](https://github.com/singjie/scgs-website/raw/gh-pages/Python%20-%20Tutorial%201%20with%20Solution.pdf)
 
 ----
 
@@ -73,6 +74,7 @@ They will be dealing with complex logic branching and be exposed to the process 
 
 ## Tutorial
 1. [Tutorial 2](https://github.com/singjie/scgs-website/raw/gh-pages/Tutorial%202.pdf)
+  1. [Solution](https://github.com/singjie/scgs-website/raw/gh-pages/Python%20-%20Tutorial%202%20with%20Solution.pdf)
 
 ----
 
